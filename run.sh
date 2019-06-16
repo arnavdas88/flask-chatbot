@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-python3 controller.py
+python3 main.py
